@@ -48,11 +48,11 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake-dark.svg?color_snake=red"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake.svg"
+      srcset="https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake.svg?color_snake=red"
     />
     <img
       alt="github contribution grid snake animation"
