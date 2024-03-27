@@ -60,6 +60,4 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
     />
   </picture>
 
-  ![Snake animation](https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
