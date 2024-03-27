@@ -14,6 +14,11 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamdevsoares&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevsoares&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+## 🔥Skills
+
+# Programming Languages & Frameworks
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -25,7 +30,11 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
   <img align="center" alt="Will-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Will-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Will-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <br><br>
+</div>
+
+# Tools
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Will-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Will-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Will-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
