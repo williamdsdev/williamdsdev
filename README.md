@@ -51,6 +51,6 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
     <img alt="github-snake" src="github-contribution-grid-snake.svg" />
   </picture>
 
-  ![Snake animation](https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/williamdevsoares/williamdevsoares/blob/output/github-contribution-grid-snake.svg)
 
 </div>
