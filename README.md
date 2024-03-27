@@ -17,7 +17,7 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
 
 ## 🔥Skills
 
-# Programming Languages & Frameworks
+### Programming Languages & Frameworks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -32,7 +32,7 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
   <img align="center" alt="Will-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
-# Tools
+### Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
