@@ -1,6 +1,6 @@
 ## Olá! Eu sou o William Desteffani Soares 👋
 
-Bem-vindo ao meu espaço no GitHub! Sou um entusiasta de Desenvolvimento Full Stack Web, e estou constantemente aprimorando minhas habilidades e explorando novas tecnologias. Atualmente, meu foco de estudo inclui HTML, CSS, JavaScript, TypeScript, Ruby e Ruby on Rails.
+Bem-vindo ao meu espaço no GitHub! Sou um entusiasta de Desenvolvimento Full Stack Web, e estou constantemente aprimorando minhas habilidades e explorando novas tecnologias. Atualmente, meu foco de estudo inclui HTML, CSS, JavaScript, TypeScript, React, C#, .NET, ASP.NET, Dart e Flutter.
 
 - 💼 Hoje trabalho com Desenvolvimento Full Stack Web.
 - 💻 Estou empenhado em aprofundar meu conhecimento em diversas tecnologias, sempre buscando aprender e evoluir.
