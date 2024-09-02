@@ -40,6 +40,7 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+  <img align="center" alt="Will-MacOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
   <img align="center" alt="Will-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Will-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Will-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
