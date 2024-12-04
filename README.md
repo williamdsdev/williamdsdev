@@ -67,7 +67,6 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
 
   <!-- Design & Collaboration -->
   <img align="center" alt="Will-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Will-Slack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
 
   <!-- Media Tools -->
   <img align="center" alt="Will-Premiere" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
