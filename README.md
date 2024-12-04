@@ -20,40 +20,51 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso nes
 ### Programming Languages & Frameworks
 
 <div style="display: inline_block"><br>
+  <!-- Languages -->
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Will-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Will-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Will-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Will-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <!-- Frameworks -->
   <img align="center" alt="Will-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Will-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Will-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Will-Bulma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Will-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Will-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Will-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Will-dotNET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Will-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <!-- CSS Frameworks -->
+  <img align="center" alt="Will-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Will-Bulma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
+  <!-- Databases -->
   <img align="center" alt="Will-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <!-- Back-end Frameworks -->
+  <img align="center" alt="Will-dotNET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
 </div>
 
 ### Tools
 
 <div style="display: inline_block"><br>
+  <!-- OS -->
   <img align="center" alt="Will-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Will-MacOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
   <img align="center" alt="Will-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <!-- IDEs -->
   <img align="center" alt="Will-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Will-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
   <img align="center" alt="Will-WebStorm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg">
   <img align="center" alt="Will-Rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg">
+  <!-- DevOps -->
   <img align="center" alt="Will-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Will-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
   <img align="center" alt="Will-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Will-Premiere" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Will-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+  <!-- Design & Collaboration -->
   <img align="center" alt="Will-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Will-Slack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+  <!-- Media Tools -->
+  <img align="center" alt="Will-Premiere" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
+  <img align="center" alt="Will-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+  <!-- GIF -->
   <img align="right" alt="Will-Gif" height="124" width="124" src="https://imgur.com/tYHWUIh.gif">
 </div>
 
