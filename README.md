@@ -10,9 +10,9 @@ Bem-vindo ao meu espaço no GitHub! Sou um entusiasta de Desenvolvimento Full St
 Fique à vontade para explorar meus repositórios e acompanhar meu progresso nesse emocionante caminho do desenvolvimento web! Seja bem-vindo(a) e sinta-se à vontade para entrar em contato. Estou ansioso para colaborações e aprendizados compartilhados! 🚀
 
 <div>
-  <a href="https://github.com/williamdevsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamdevsoares&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdevsoares&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/williamdsdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamdsdev&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdsdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔥Skills
